@@ -2,6 +2,23 @@
 
 Mediplus is a healthcare management system designed to simplify the process of managing patient data, appointments, prescriptions, and medical histories. This platform aims to enhance the quality of care, improve efficiency, and optimize hospital management through a user-friendly interface and powerful features.
 
+---
+
+## **Table of Contents**
+
+
+1. [Features](#features)
+2. [Installation](#installation)
+   - [Prerequisites](#prerequisites)
+   - [Steps to Run Locally](#steps-to-run-locally)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+   - [Steps to Contribute](#steps-to-contribute)
+5. [License](#license)
+6. [Acknowledgements](#acknowledgements)
+
+---
+
 ## Features
 
 - **Patient Management**: Store and manage patient profiles, medical history, and health records.
@@ -86,4 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MongoDB](https://www.mongodb.com/) for the database.
 - [Bootstrap](https://getbootstrap.com/) for styling.
 - All contributors and open-source libraries used in the project.
+
+  ---
+  For any information reach out to me on [email](isbbydior@gmail.com)
 
