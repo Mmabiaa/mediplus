@@ -1,10 +1,14 @@
-# Mediplus
+# Mediplus Wiki
 
+## Home
 Mediplus is a healthcare management system designed to simplify the process of managing patient data, appointments, prescriptions, and medical histories. This platform aims to enhance the quality of care, improve efficiency, and optimize hospital management through a user-friendly interface and powerful features.
 
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
+  - [Mobile](#mobile)
+  - [Desktop](#desktop)   
 - [Live Demo](#live-demo)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
@@ -29,6 +33,20 @@ Mediplus is a healthcare management system designed to simplify the process of m
 ## Live Demo
 
 Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](https://mediplus-phi.vercel.app).
+
+## Screenshots
+### Mobile
+### This is a demo screenshot of how it appears on mobile
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s7.jpg)
+
+
+
+### Desktop
+### This is a demo screenshot of how it appears on Desktop PC
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(34).png)
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(25).jpg)
+
+
 
 ## Installation
 
@@ -116,3 +134,15 @@ Consider adding these features to enhance Mediplus:
 - **Mobile App Integration**: Develop a mobile application for easier access to services.
 
 These additions can significantly improve user engagement and satisfaction with Mediplus.
+
+
+---
+
+### Footer
+
+- *Contact Us*: [mmabiaa](mailto:isbbydior@gmail.com)
+- *Follow Us*: [Twitter](https://twitter.com/mmabiaa) | [TikTok](https://tiktok.com/_mmabiaa) | [Instagram](https://instagram.com/mmabiaa_)
+- *License*: © 2025 Mmabiaa - Mediplus. All rights reserved.
+- *Last Updated*: January 5, 2025
+
+---
