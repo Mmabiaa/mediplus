@@ -1,4 +1,4 @@
-# Mediplus
+# Mediplus 
 
 Mediplus is a healthcare management system designed to simplify the process of managing patient data, appointments, prescriptions, and medical histories. This platform aims to enhance the quality of care, improve efficiency, and optimize hospital management through a user-friendly interface and powerful features.
 
@@ -38,23 +38,14 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 ### Mobile
 ### This is a demo screenshot of how it appears on mobile
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s7.jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s6.jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s5.jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s4.jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s3.jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s2.jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s1.jpg)
+
 
 
 ### Desktop
 ### This is a demo screenshot of how it appears on Desktop PC
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(34).png)
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(25).jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(26).jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(27).jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(28).jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(29).jpg)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(30).png)
+
 
 
 
@@ -144,3 +135,15 @@ Consider adding these features to enhance Mediplus:
 - **Mobile App Integration**: Develop a mobile application for easier access to services.
 
 These additions can significantly improve user engagement and satisfaction with Mediplus.
+
+
+---
+
+### Footer
+
+- *Contact Us*: [mmabiaa](mailto:isbbydior@gmail.com)
+- *Follow Us*: [Twitter](https://twitter.com/mmabiaa) | [TikTok](https://tiktok.com/_mmabiaa) | [Instagram](https://instagram.com/mmabiaa_)
+- *License*: © 2025 Mmabiaa - Mediplus. All rights reserved.
+- *Last Updated*: January 5, 2025
+
+---
