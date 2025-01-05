@@ -11,6 +11,10 @@ Mediplus is a healthcare management system designed to simplify the process of m
 - **Billing System**: Generate and manage patient invoices and billing information.
 - **Reports & Analytics**: Generate detailed reports for management, patient care, and performance insights.
 
+## Live Demo
+
+Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](https://mediplus-phi.vercel.app).
+
 ## Installation
 
 ### Prerequisites
