@@ -34,6 +34,7 @@ Mediplus is a healthcare management system designed to simplify the process of m
 Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](https://mediplus-phi.vercel.app).
 
 ## Screenshots
+
 ### Mobile
 ### This is a demo screenshot of how it appears on mobile
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s7.jpg)
@@ -44,6 +45,7 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 ### This is a demo screenshot of how it appears on Desktop PC
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(34).png)
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(25).jpg)
+
 
 
 
