@@ -2,6 +2,21 @@
 
 Mediplus is a healthcare management system designed to simplify the process of managing patient data, appointments, prescriptions, and medical histories. This platform aims to enhance the quality of care, improve efficiency, and optimize hospital management through a user-friendly interface and powerful features.
 
+## Table of Contents
+
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Run Locally](#steps-to-run-locally)
+- [Usage](#usage)
+- [Contributing](#contributing)
+  - [Steps to Contribute](#steps-to-contribute)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Additional Features](#additional-features)
+
+
 ## Features
 
 - **Patient Management**: Store and manage patient profiles, medical history, and health records.
@@ -26,17 +41,17 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 ### Steps to Run Locally
 
 1. Clone the repository:
-    ```bash
+    ```
     git clone https://github.com/yourusername/mediplus.git
     ```
 
 2. Navigate into the project directory:
-    ```bash
+    ```
     cd mediplus
     ```
 
 3. Install the dependencies:
-    ```bash
+    ```
     npm install
     ```
 
@@ -45,7 +60,7 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
     - Add the required environment variables (e.g., database credentials, API keys).
 
 5. Run the application:
-    ```bash
+    ```
     npm start
     ```
 
@@ -65,16 +80,16 @@ We welcome contributions to Mediplus! Please fork the repository, create a new b
 
 1. Fork the repository.
 2. Create a new feature branch:
-    ```bash
+    ```
     git checkout -b feature-name
     ```
 3. Make your changes.
 4. Commit your changes:
-    ```bash
+    ```
     git commit -m "Description of changes"
     ```
 5. Push your branch to your fork:
-    ```bash
+    ```
     git push origin feature-name
     ```
 6. Open a pull request to the `main` branch of the Mediplus repository.
@@ -91,3 +106,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Bootstrap](https://getbootstrap.com/) for styling.
 - All contributors and open-source libraries used in the project.
 
+## Additional Features
+
+Consider adding these features to enhance Mediplus:
+
+- **User Feedback System**: Allow users to submit feedback on their experience.
+- **Notification System**: Implement email/SMS notifications for appointment reminders.
+- **Data Export Options**: Enable exporting patient data in various formats (CSV, PDF).
+- **Mobile App Integration**: Develop a mobile application for easier access to services.
+
+These additions can significantly improve user engagement and satisfaction with Mediplus.
