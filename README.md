@@ -5,6 +5,9 @@ Mediplus is a healthcare management system designed to simplify the process of m
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
+  -[Mobile](#mobile)
+  -[Desktop](#desktop)   
 - [Live Demo](#live-demo)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
@@ -29,8 +32,9 @@ Mediplus is a healthcare management system designed to simplify the process of m
 ## Live Demo
 
 Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](https://mediplus-phi.vercel.app).
+
 ## Screenshots
-### On Mobile
+### Mobile
 ### This is a demo screenshot of how it appears on mobile
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s7.jpg)
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s6.jpg)
@@ -40,6 +44,15 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s2.jpg)
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s1.jpg)
 
+
+### Desktop
+### This is a demo screenshot of how it appears on Desktop PC
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot20%(24).jpg)
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot20%(25).jpg)
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot20%(26).jpg)
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot20%(27).jpg)
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot20%(28).jpg)
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot20%(29).jpg)
 
 
 
