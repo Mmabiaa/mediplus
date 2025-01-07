@@ -43,10 +43,7 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 
 ### Desktop
 ### This is a demo screenshot of how it appears on Desktop PC
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(34).png)
-![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(25).jpg)
-
-
+![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(24).png)
 
 
 ## Installation
