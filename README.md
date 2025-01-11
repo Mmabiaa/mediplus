@@ -58,7 +58,7 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/mediplus.git
+    git clone https://github.com/Mmabiaa/mediplus.git
     ```
 
 2. Navigate into the project directory:
