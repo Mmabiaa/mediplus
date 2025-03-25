@@ -16,7 +16,7 @@ Version:	1.1
 	+ Search
 * Hero Slider CSS
 * Schedule CSS
-* Features CSS
+* Feautes CSS
 * Fun Facts CSS
 * Why Choose CSS
 * Call to Action CSS
@@ -120,43 +120,27 @@ body{
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
 }
-
-.get-pro:hover {
-	background: #2C2D3F;
+.get-pro:hover{
+	
 }
 #scrollUp {
-    position: fixed; /* Ensures it stays fixed on the screen */
-    bottom: 15px;
-    right: 15px;
-    padding: 0; /* Padding reset */
-    background: #1a76d1;
-    color: #fff;
-    font-size: 25px;
-    width: 45px;
-    height: 45px;
-    text-align: center;
-    line-height: 45px;
-    border-radius: 30px;
-    box-shadow: 0px 0px 10px #00000026;
-    z-index: 1000; /* Keeps it above other elements */
+	bottom: 15px;
+	right: 15px;
+	padding: 10px 20px;
+	background: #1a76d1;
+	color: #fff;
+	font-size: 25px;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	padding: 0;
+	border-radius: 3px;
+	box-shadow: 0px 0px 10px #00000026;
 }
-
-#scrollUp:hover {
-    background: #2C2D3F;
+#scrollUp:hover{
+	background:#2C2D3F;
 }
-
-/* Media query for smaller screens */
-@media (max-width: 768px) {
-    #scrollUp {
-        bottom: 10px; /* Adjust bottom margin for smaller screens */
-        right: 10px; /* Adjust right margin for smaller screens */
-        width: 40px; /* Slightly smaller button */
-        height: 40px;
-        font-size: 20px; /* Adjust font size */
-        line-height: 40px;
-    }
-}
-
 /* Color Plate */
 .color-plate {
 	position: fixed;
@@ -816,7 +800,9 @@ body{
 .schedule .single-schedule a i{
 	margin-left:10px;
 }
-
+.schedule .single-schedule .time-sidual{
+	
+}
 .schedule .single-schedule .time-sidual{
 	overflow:hidden;
 	margin-top:17px;
@@ -922,7 +908,9 @@ body{
 	background-size:cover;
 	background-repeat:no-repeat;
 }
-/* Removed empty ruleset for .fun-facts .single-fun */
+.fun-facts .single-fun {
+	
+}
 .fun-facts .single-fun i {
 	position: absolute;
 	left: 0;
@@ -975,58 +963,46 @@ body{
 /*===================
 	Why choose CSS
 =====================*/
-.why-choose .choose-left h3 {
-    font-size: 24px;
-    font-weight: 600;
-    color: #2C2D3F;
-    position: relative;
-    padding-bottom: 20px;
-    margin-bottom: 24px;
+.why-choose .choose-left h3{
+	font-size:24px;
+	font-weight:600;
+	color:#2C2D3F;
+	position:relative;
+	padding-bottom:20px;
+	margin-bottom:24px;
 }
-
-.why-choose .choose-left h3:before {
-    position: absolute;
-    content: "";
-    left: 0;
-    bottom: 0;
-    height: 2px;
-    width: 50px;
-    background: #1a76d1;
+.why-choose .choose-left h3:before{
+	position:absolute;
+	content:"";
+	left:0;
+	bottom:0;
+	height:2px;
+	width:50px;
+	background:#1a76d1;
 }
-
-.why-choose .choose-left p {
-    margin-bottom: 35px;
-    font-size: 16px; /* Ensures readability */
-    color: #4A4A4A; /* Slightly darker text for contrast */
-    line-height: 1.6; /* Improves text spacing */
+.why-choose .choose-left p{
+	margin-bottom:35px;
 }
-
-.why-choose .choose-left .list {}
-
+.why-choose .choose-left .list{}
 .why-choose .choose-left .list li {
-    color: #868686;
-    font-size: 15px; /* Slightly larger for readability */
-    margin-bottom: 12px;
-    display: flex; /* Ensures icon and text are aligned */
-    align-items: center; /* Vertical alignment */
+	color: #868686;
+	margin-bottom: 12px;
 }
-
-.why-choose .choose-left .list li:last-child {
-    margin-bottom: 0;
+.why-choose .choose-left .list li:last-child{
+	margin-bottom:0px;
 }
-
-.why-choose .choose-left .list li i {
-    height: 20px; /* Slightly larger for better visibility */
-    width: 20px;
-    line-height: 20px; /* Match height for centering */
-    text-align: center;
-    background: #1a76d1;
-    color: #fff;
-    font-size: 12px; /* Adjusted size for better fit */
-    border-radius: 50%; /* Circular shape */
-    margin-right: 12px; /* Reduce spacing for better alignment */
+.why-choose .choose-left .list li i{
+	height:15px;
+	width:15px;
+	line-height:15px;
+	text-align:center;
+	background:#1a76d1;
+	color:#fff;
+	font-size:14px;
+	border-radius:100%;
+	padding-left:2px;
+	margin-right:16px;
 }
-
 /* Start Faq CSS */
 .why-choose{
 	background:#fff;
@@ -1041,50 +1017,51 @@ body{
 	position:relative;
 }
 .why-choose .choose-right .video {
-    color: #fff;
-    height: 70px;
-    width: 70px;
-    display: flex; /* Use flexbox for centering */
-    justify-content: center; /* Horizontal centering */
-    align-items: center; /* Vertical centering */
-    border-radius: 50%; /* Circular shape */
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%); /* Centering using transform */
-    font-size: 21px;
-    background: #1a76d1;
+	color: #fff;
+	height: 70px;
+	width: 70px;
+	line-height: 70px;
+	text-align: center;
+	border-radius: 100%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -35px;
+	margin-top: -35px;
+	font-size: 21px;
+	background: #1a76d1;
+	padding-left: 4px;
 }
-
-.why-choose .choose-right .video:hover {
-	background: #012e5a;
+.why-choose .choose-right .video:hover{
+	transform:scale(1.1);
 }
-
 .why-choose .video-image .waves-block .waves {
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    background: #fff;
-    opacity: 0;
-    border-radius: 50%; /* Ensures waves are circular */
-    animation: waves 3s ease-in-out infinite;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%); /* Centering using transform */
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background: #fff;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	border-radius: 100%;
+	-webkit-animation: waves 3s ease-in-out infinite;
+	animation: waves 3s ease-in-out infinite;
+	left: 50%;
+	margin-left: -100px;
+	top: 50%;
+	margin-top: -100px;
 }
-
 .why-choose .video-image .waves-block .wave-1 {
+    -webkit-animation-delay: 0s;
     animation-delay: 0s;
 }
-
 .why-choose .video-image .waves-block .wave-2 {
+    -webkit-animation-delay: 1s;
     animation-delay: 1s;
 }
-
 .why-choose .video-image .waves-block .wave-3 {
+    -webkit-animation-delay: 2s;
     animation-delay: 2s;
 }
-
 /*=======================
 	End Why choose CSS
 =========================*/
@@ -1144,7 +1121,6 @@ body{
 	color:#1A76D1;
 	border-color:transparent;
 	background:#fff;
-	color: #000000 !important;
 }
 .call-action .content .second i{
 	margin-left:10px;
@@ -1491,7 +1467,7 @@ body{
 	border-radius: 3px;
 	margin: 0 0 0 -52px;
 	margin-top: 49px;
-	box-sizing: border-box;
+	box-sizing: ;
 }
 .testimonials .owl-dots .owl-dot {
 	display: inline-block;
