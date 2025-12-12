@@ -36,13 +36,13 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 ## Screenshots
 
 ### Mobile
-### This is a demo screenshot of how it appears on mobile
+This is a demo screenshot of how it appears on mobile
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/s7.jpg)
 
 
 
 ### Desktop
-### This is a demo screenshot of how it appears on Desktop PC
+This is a demo screenshot of how it appears on Desktop PC
 ![](https://github.com/Mmabiaa/mediplus/blob/main/screenshots/Screenshot%20(24).png)
 
 
