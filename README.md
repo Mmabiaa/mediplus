@@ -90,7 +90,7 @@ Experience Mediplus in action! Check out our live demo at [Mediplus Live Demo](h
 
 ## Contributing
 
-We welcome contributions to Mediplus! Please fork the repository, create a new branch, and submit a pull request with your changes. Ensure that all code follows the existing style guide and that tests are included for any new features.
+ We welcome contributions to Mediplus! Please fork the repository, create a new branch, and submit a pull request with your changes. Ensure that all code follows the existing style guide and that tests are included for any new features.
 
 ### Steps to Contribute
 
