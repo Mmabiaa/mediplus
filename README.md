@@ -1,4 +1,3 @@
-
 # Mediplus 
 
 Mediplus is a healthcare management system designed to simplify the process of managing patient data, appointments, prescriptions, and medical histories. This platform aims to enhance the quality of care, improve efficiency, and optimize hospital management through a user-friendly interface and powerful features.
